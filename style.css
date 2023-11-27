@@ -1,0 +1,29 @@
+#navbar {
+    background-color: rgb(175, 104, 104);
+}
+
+#hero {
+    background-image: linear-gradient(to right, red , yellow);
+}
+#Work {
+    background-color: rgb(158, 128, 63);;
+}
+
+#certificate {
+    background-color: rgb(118, 175, 104);;
+}
+#service{
+    background-color: rgb(100, 126, 177);;
+}
+
+#About{
+    background-color: rgb(178, 197, 97);;
+}
+
+#contact{
+    background-color: rgba(0, 0, 255, 0.118);
+}
+
+#footer{
+    background-image: linear-gradient(to right, red,orange,yellow,green,blue,indigo,violet);
+}
